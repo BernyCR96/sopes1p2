@@ -11,7 +11,7 @@ import (
 	"os"
     "time"
 	"google.golang.org/grpc"
-	pb "github.com/BernyCR96/sopes1p2/calculator"
+	pb "github.com/BernyCR96/sopes1p2"
 )
 
 //Caso struct
